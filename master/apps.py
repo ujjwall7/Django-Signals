@@ -7,3 +7,4 @@ class MasterConfig(AppConfig):
 
     def ready(self):
         import master.signals
+        import master.signals_1

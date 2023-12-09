@@ -145,7 +145,8 @@ def conn_db(sender, connection, **kwargs):
     print('Connection : ',connection)
     print(f'Kwargs : {kwargs}')
     print('#----------Intial Connection To The Database Testing Ended---------')
-    
+
+
 
 
 
